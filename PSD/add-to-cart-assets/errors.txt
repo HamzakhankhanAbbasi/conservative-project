@@ -1,0 +1,8 @@
+[12/18/2021, 1:48:41 AM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[12/18/2021, 1:48:41 AM] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[12/18/2021, 1:48:41 AM] layer "+ copy": Expected Either a default asset specification or a layer asset specification but "+" found.
+[12/18/2021, 1:48:41 AM] layer "+ copy": Expected Either a default asset specification or a layer asset specification but "+" found.
+[12/18/2021, 1:48:41 AM] layer "+ copy 2": Expected Either a default asset specification or a layer asset specification but "+" found.
+[12/18/2021, 1:48:41 AM] layer "+ copy 2": Expected Either a default asset specification or a layer asset specification but "+" found.
+[12/18/2021, 1:48:41 AM] layer "573-308-9999 bobconservativewisdomwu@gmail.com": Unsupported extension: com
+[12/18/2021, 1:48:39 AM] layer "573-308-9999            bobconservativewisdomwu@gmail.com": Unsupported extension: com
